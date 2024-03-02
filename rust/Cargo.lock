@@ -4161,6 +4161,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "hyperlane-cli"
+version = "0.1.0"
+
+[[package]]
 name = "hyperlane-core"
 version = "0.1.0"
 dependencies = [
